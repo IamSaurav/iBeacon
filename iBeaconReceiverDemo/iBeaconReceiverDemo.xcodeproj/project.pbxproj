@@ -265,7 +265,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Rahul Aggarwal (CB44A4QCL5)";
 				INFOPLIST_FILE = iBeaconReceiverDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cocoajuice.receiverdemo.iBeaconReceiverDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -280,7 +280,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Rahul Aggarwal (CB44A4QCL5)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Rahul Aggarwal (CB44A4QCL5)";
 				INFOPLIST_FILE = iBeaconReceiverDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cocoajuice.receiverdemo.iBeaconReceiverDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
